@@ -1,0 +1,16 @@
+
+if true  
+    print("verdadeiro");
+
+
+
+
+
+
+
+
+
+
+
+
+
